@@ -2,7 +2,7 @@
 
 | Date of Contest | Round No. | Division | Name of the Problem                           | Problem No. |
 | --------------- | --------- | -------- | --------------------------------------------- | --------- |
-| Feb/09/2025    | 1003   | Div 2    | [Skibidus and Amog'u](https://example.com/q1)     | A         |
+| Feb/09/2025    | 1003   | Div 2    | [Skibidus and Amog'u](https://github.com/risha2211/Competitive-Programming/blob/main/Skibidus-and-Amog'u.md)     | A         |
 | Feb/09/2025      | 1003   | Div 2    | [Skibidus and Ohio](https://example.com/q2)   | B         |
 | May/17/2025      | 1025   | Div 2    | [It's Time To Duel](https://example.com/q3)         | A         |
 | May/17/2025      | 1025   | Div 2    | [Slice to Survive](https://example.com/q4)       | B         |
