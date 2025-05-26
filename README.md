@@ -3,7 +3,7 @@
 | Round No. | Date of Contest | Division | Name of the Problem                           | Label |
 | --------- | --------------- | -------- | --------------------------------------------- | ----------- |
 | 1003      | Feb/09/2025     | Div 2    | [Skibidus and Amog'u](https://github.com/risha2211/Competitive-Programming/blob/main/Skibidus-and-Amog'u.md)     | [A](https://codeforces.com/contest/2065/problem/A)          |
-| 1003      | Feb/09/2025     | Div 2    | [Skibidus and Ohio](https://github.com/risha2211/Competitive-Programming/blob/main/Skibidus-and-Ohio.md)         | B           |
+| 1003      | Feb/09/2025     | Div 2    | [Skibidus and Ohio](https://github.com/risha2211/Competitive-Programming/blob/main/Skibidus-and-Ohio.md)         | [B](https://codeforces.com/contest/2065/problem/B)           |
 | 1025      | May/17/2025     | Div 2    | [It's Time To Duel](https://github.com/risha2211/Competitive-Programming/blob/main/It's-Time-To-Duel.md)         | A           |
 | 1025      | May/17/2025     | Div 2    | [Slice to Survive](https://github.com/risha2211/Competitive-Programming/blob/main/Slice-to-Survive.md)           | B           |
 | 1026      | May/24/2025     | Div 2    | [Fashionable Array](https://github.com/risha2211/Competitive-Programming/blob/main/Fashionable-Array.md)         | A           |
