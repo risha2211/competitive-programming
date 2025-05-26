@@ -8,6 +8,6 @@
 | May/17/2025      | 1025   | Div 2    | [Slice to Survive](https://github.com/risha2211/Competitive-Programming/blob/main/Slice-to-Survive.md)       | B         |
 | May/24/2025      | 1026   | Div 2    | [Fashionable Array](https://github.com/risha2211/Competitive-Programming/blob/main/Fashionable-Array.md)   | A         |
 | May/24/2025     | 1026   | Div 2    | [Down with Brackets](https://github.com/risha2211/Competitive-Programming/blob/main/Down-with-Brackets.md) | B       |
-| May/27/2025      | 1027   | Div 3    | [Square Year](https://github.com/risha2211/Competitive-Programming/tree/main)   | A         |
+| May/27/2025      | 1027   | Div 3    | [Square Year](https://github.com/risha2211/Competitive-Programming/blob/main/Square-Year.md)   | A         |
 | May/27/2025      | 1027   | Div 3    | [Not Quite a Palindromic String](https://github.com/risha2211/Competitive-Programming/blob/main/Not-Quite-a-Palindromic-String.md)       | B         |
 | May/27/2025      | 1027   | Div 3    | [Need More Arrays](https://example.com/q9)    | C         |
