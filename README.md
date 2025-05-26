@@ -1,6 +1,6 @@
 # Problem Index 📚
 
-| Round No. | Date of Contest | Division | Name of the Problem                           | Problem No. |
+| Round No. | Date of Contest | Division | Name of the Problem                           | Label |
 | --------- | --------------- | -------- | --------------------------------------------- | ----------- |
 | 1003      | Feb/09/2025     | Div 2    | [Skibidus and Amog'u](https://github.com/risha2211/Competitive-Programming/blob/main/Skibidus-and-Amog'u.md)     | A           |
 | 1003      | Feb/09/2025     | Div 2    | [Skibidus and Ohio](https://github.com/risha2211/Competitive-Programming/blob/main/Skibidus-and-Ohio.md)         | B           |
