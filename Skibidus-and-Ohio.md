@@ -2,47 +2,74 @@
 
 ## Language: Python 3
 
-At first glance, the question seemed simple: I had to minimize the string length by repeatedly collapsing adjacent equal characters, replacing one and removing the next. The operation sounded weird at first (replace + remove), but I quickly realized something important - it didn’t matter what letter I replaced with. The net effect of this operation was that two identical letters shrink to one. That's it.
+At first glance, the problem seemed simple- given a string, I had to repeatedly perform an operation that lets me replace one letter and delete the next if those two letters are the same, aiming to minimize the final string length.  
 
-The problem says:
+The operation itself sounded a bit confusing: "replace the first letter with any letter and remove the second" - which made me wonder what the best strategy could be. Initially, I thought the replacement letter might matter a lot, and I wasn’t sure how to simulate or track that efficiently.  
 
-“Choose an index i such that s[i] == s[i+1]. Replace s[i] with any lowercase letter. Then remove s[i+1] from the string.”
+### Early Attempts (misstep, but helped me think):  
+My first attempt was straightforward: I just tried to count pairs of equal consecutive letters and reduce the length by that count, like:
 
-That sounds like two steps:
+```python
+s = input().strip()
+length = len(s)
+for i in range(1, length):
+    if s[i] == s[i-1]:
+        length -= 1
+print(length)
+```
+But this approach was too naive. It didn’t handle the fact that after replacing one letter, new pairs could form, allowing further reductions. It only counted immediate pairs without simulating how the string evolves after operations.  
 
-- Replace s[i] with any letter you want.
+I realized I needed to simulate the process step-by-step, actually modifying the string.
 
-- Delete s[i+1].
+### Deeper Analysis  
 
-Now here’s the main thing:
+I paused to understand the core of the operation. Since I can replace the first letter in any pair with *any letter*, I have control to create pairs that help me remove even more characters.  
 
-- Since I can replace s[i] with any letter, what’s stopping me from just making s[i] equal to s[i+1] before deleting s[i+1]?
+For example, if the string is "bcc", I can turn "cc" into "b" by replacing the first "c" with "b" and removing the second "c". This creates "bb", which itself is a pair I can shrink further.  
 
-- In fact, since they're already equal, you don't even need to replace anything. You can imagine the operation as: "two same letters become one".
+So the problem reduces to:  
+**Repeatedly remove adjacent duplicates until none remain.**
 
-Example:
-Suppose s = "aa".
+This meant I no longer needed to guess or track replacement letters explicitly. The best replacements always let me collapse as many pairs as possible.  
 
-You’re allowed to:
+To simulate this, I wrote a code that, in a loop, keeps removing adjacent duplicates until the string length stops changing:
 
-Replace s[0] = 'a' with any letter — let's say 'x', 'b', or even leave it 'a'.
+```python
+t = int(input())
+for x in range(t):
+    s = input().strip()
+    
+    while True:
+        prev_len = len(s)
+        if len(s) == 1:
+            break
+        s = ''.join([s[i] for i in range(1, len(s)) if s[i] != s[i-1]] + [s[-1]])
+        if len(s) == prev_len:
+            break
+    
+    print(len(s))
+```
+- This builds a new string skipping letters that are the same as their previous letter (effectively removing duplicates).
+- It repeats this process until the string can’t be shortened further.
 
-Then remove s[1].
+I struggled a bit with the part where the code rebuilds the string by picking certain characters out of it in a single line. The key part was recognizing that in each iteration, I’m removing one letter from every pair of duplicates. Since the problem allows changing the letter, I don't have to worry about what letter stays — just that one letter from each pair disappears.  
 
-So:
+This repeated collapsing reflects the optimal strategy - the string shrinks as much as possible because I can always choose to replace letters to enable more removals.
 
-Replace s[0] with 'a' (no real change), remove s[1] → result = "a"
 
-Replace s[0] with 'x', remove s[1] → result = "x"
 
-But we want to minimize the string's length, not make it look different.
 
-So the optimal move is to always just let "aa" → "a". That’s the shortest you can make it.
 
-That’s why we don’t actually care about the "replace" part — as long as the two characters are equal, we just collapse them into one.
 
-This led me to one core realization:
 
-Any pair of identical adjacent letters can be reduced to a single letter, and I can keep doing this greedily as long as there are such pairs.
+
+
+
+
+
+
+
+
+
 
 
