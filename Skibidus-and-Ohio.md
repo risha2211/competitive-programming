@@ -2,7 +2,7 @@
 
 ## Language: Python 3
 
-At first glance, the question seemed deceptively simple: I had to minimize the string length by repeatedly collapsing adjacent equal characters, replacing one and removing the next. The operation sounded weird at first (replace + remove), but I quickly realized something important - it didn’t matter what letter I replaced with. The net effect of this operation was that two identical letters shrink to one. That's it.
+At first glance, the question seemed simple: I had to minimize the string length by repeatedly collapsing adjacent equal characters, replacing one and removing the next. The operation sounded weird at first (replace + remove), but I quickly realized something important - it didn’t matter what letter I replaced with. The net effect of this operation was that two identical letters shrink to one. That's it.
 
 The problem says:
 
