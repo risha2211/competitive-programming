@@ -49,7 +49,7 @@ for x in range(t):
     
     print(len(s))
 ```
-### Deeper Look at 
+### Breaking Down 
 ```python
 s = ''.join([s[i] for i in range(1, len(s)) if s[i] != s[i-1]] + [s[-1]])
 ```
