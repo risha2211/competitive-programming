@@ -14,3 +14,9 @@
 | 1027      | May/27/2025     | Div 3    | [Need More Arrays](https://github.com/risha2211/Competitive-Programming/blob/main/Need-More-Arrays.md)           | C           |
 
 ## CodeChef 🧑‍🍳
+
+| Round No. | Date of Contest | Name of the Problem             | Difficulty |
+| --------- | --------------- | -------------------------------| ---------- |
+| S. 187       | May/21/2025      | Exercise and Rest   | 123    |
+| S. 187      | May/21/2025      | Chococut       | 1003  |
+| S. 187    | May/21/2025      | Incremental Game     | 1227     |
