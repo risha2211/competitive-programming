@@ -8,15 +8,9 @@ After the duels, each player reports if they won at least one duel (report = 1) 
 
 Goal: check if there must be at least one liar among the players based on these reports.
 
-- Since every duel produces exactly one winner and one loser, among n−1 duels, there cannot be more than n−1 wins in total.
+- Since every duel produces exactly one winner and one loser, among n−1 duels, there cannot be more than n−1 wins in total. Therefore, if the total number of 1s is greater than n-1, someone is lying.
 
-- If two consecutive players both say 0, that means neither won any duel. But these two players fought each other, so one must have won -impossible for both to say 0.
-
-Hence:
-
-- If the total number of 1s is greater than n-1, someone is lying.
-
-- If there exist two consecutive zeros, someone is lying.
+- If two consecutive players both say 0, that means neither won any duel. But these two players fought each other, so one must have won -impossible for both to say 0. Therefore, if there exist two consecutive zeros, someone is lying.
 
 ### How I Approached the Problem
 
