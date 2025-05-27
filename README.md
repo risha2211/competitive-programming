@@ -11,7 +11,7 @@
 | 1026      | May/24/2025     | Div 2    | [Down with Brackets](https://github.com/risha2211/Competitive-Programming/blob/main/Down-with-Brackets.md)       | [B](https://codeforces.com/contest/2110/problem/B)           |
 | 1027      | May/27/2025     | Div 3    | [Square Year](https://github.com/risha2211/Competitive-Programming/blob/main/Square-Year.md)                     | [A](https://codeforces.com/contest/2114/problem/A)           |
 | 1027      | May/27/2025     | Div 3    | [Not Quite a Palindromic String](https://github.com/risha2211/Competitive-Programming/blob/main/Not-Quite-a-Palindromic-String.md) |[B](https://codeforces.com/contest/2114/problem/B)           |
-| 1027      | May/27/2025     | Div 3    | [Need More Arrays](https://github.com/risha2211/Competitive-Programming/blob/main/Need-More-Arrays.md)           | [C](https://codeforces.com/contest/2114/problem/A)           |
+| 1027      | May/27/2025     | Div 3    | [Need More Arrays](https://github.com/risha2211/Competitive-Programming/blob/main/Need-More-Arrays.md)           | [C](https://codeforces.com/contest/2114/problem/C)           |
 
 ## CodeChef 🧑‍🍳
 
