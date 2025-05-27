@@ -50,9 +50,9 @@ int main() {
             }
         }
 
-        int sum_a = accumulate(a.begin(), a.end(), 0);
-        if (sum_a > n - 1) {
-            liar = 1;
+        int sum_a = 0;
+        for (int i = 0; i < n; i++) {
+            sum_a += a[i];
         }
 
         cout << (liar==1 ? "YES\n" : "NO\n");
