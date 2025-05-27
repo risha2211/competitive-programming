@@ -55,6 +55,10 @@ int main() {
             sum_a += a[i];
         }
 
+        if (sum_a > n - 1) {
+            liar = true;
+        }
+
         cout << (liar==1 ? "YES\n" : "NO\n");
     }
 
