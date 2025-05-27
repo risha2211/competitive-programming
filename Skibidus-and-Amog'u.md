@@ -7,6 +7,6 @@ Every singular noun in this language ends with "us", and to convert it to plural
 t = int(input())
 
 for x in range(t):
-    singular = input().strip()
-    print(singular[:-2] + 'i')
+    s_noun = input().strip()
+    print(s_noun[:-2] + 'i')
 ```
