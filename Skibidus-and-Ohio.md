@@ -10,9 +10,9 @@ The problem says:
 
 That sounds like two steps:
 
-Replace s[i] with any letter you want.
+- Replace s[i] with any letter you want.
 
-Delete s[i+1].
+- Delete s[i+1].
 
 Now here’s the main thing:
 
