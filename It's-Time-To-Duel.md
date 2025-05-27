@@ -1,5 +1,7 @@
 # It's Time To Duel
 
+## Language: GNU G++17 7.3.0 (C++)
+
 We have n players arranged in a line and they duel consecutively: player 1 vs player 2, player 2 vs player 3, ..., player (n-1) vs player n. Each duel produces exactly one winner and one loser.
 
 After the duels, each player reports if they won at least one duel (report = 1) or none (report = 0).
