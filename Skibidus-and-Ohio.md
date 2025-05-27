@@ -62,7 +62,7 @@ s = ''.join([s[i] for i in range(1, len(s)) if s[i] != s[i-1]] + [s[-1]])
 | [s[-1]]                        | We add the last character of the original string at the end of the new string to avoid accidentally dropping it. Otherwise, if we just loop from index 1 and conditionally keep characters, we’d lose the last one if it never got compared. |
 | ''.join(...)                   | Finally, we join all the characters back together into a single string. This is the new s after one iteration.                                                                                                         |
 
-
+---
 - This builds a new string skipping letters that are the same as their previous letter (effectively removing duplicates).
 - It repeats this process until the string can’t be shortened further.
 
