@@ -10,13 +10,7 @@ Goal: check if there must be at least one liar among the players based on these 
 
 - Since every duel produces exactly one winner and one loser, among n-1 duels, there cannot be more than n-1 wins in total. Therefore, if the total number of 1s is greater than n-1, someone is lying.
 
-- If two consecutive players both say 0, that means neither won any duel. But these two players fought each other, so one must have won-impossible for both to say 0. Therefore, if there exist two consecutive zeros, someone is lying.
-
-### How I Approached the Problem
-
-First, I tried the simplest logic — check for any two adjacent zeros. Because the duel between them guarantees one winner, so both can’t have zero wins.  
-
-Then I considered the sum of reports — it must be n-1, because there are exactly n-1 duels, and each duel produces exactly one winner.  
+- If two consecutive players both say 0, that means neither won any duel. But these two players fought each other, so one must have won- impossible for both to say 0. Therefore, if there exist two consecutive zeros, someone is lying.
 
 Combining both checks gives the final output:
 
