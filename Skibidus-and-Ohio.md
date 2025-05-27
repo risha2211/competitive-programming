@@ -50,6 +50,11 @@ for x in range(t):
     print(len(s))
 ```
 ### Deeper Look at 
+```python
+s = ''.join([s[i] for i in range(1, len(s)) if s[i] != s[i-1]] + [s[-1]])
+```
+
+
 | Part                             | Explanation                                                                                                                                                                                                                                      |
 | -------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | s[i] for i in range(1, len(s)) | We're looping through the string starting from the second character (index 1) to the end. We skip index 0 because we always need to compare s[i] with the one before it (s[i-1]).                                                        |
