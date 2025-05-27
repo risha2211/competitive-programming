@@ -17,6 +17,6 @@
 
 | Round No. | Date of Contest | Name of the Problem             | Difficulty |
 | --------- | --------------- | -------------------------------| ---------- |
-| S. 187       | May/21/2025      | Exercise and Rest   | 123    |
+| S. 187       | May/21/2025      | [Exercise and Rest](https://github.com/risha2211/Competitive-Programming/blob/main/Exercise-and-Rest.md)   | 123    |
 | S. 187      | May/21/2025      | Chococut       | 1003  |
 | S. 187    | May/21/2025      | Incremental Game     | 1227     |
