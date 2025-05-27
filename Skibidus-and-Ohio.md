@@ -65,7 +65,7 @@ s = ''.join([s[i] for i in range(1, len(s)) if s[i] != s[i-1]] + [s[-1]])
 ---
 - This builds a new string skipping letters that are the same as their previous letter (effectively removing duplicates).
 - It repeats this process until the string can’t be shortened further.
-
+---
 I struggled a bit with the part where the code rebuilds the string by picking certain characters out of it in a single line. The key part was recognizing that in each iteration, I’m removing one letter from every pair of duplicates. Since the problem allows changing the letter, I don't have to worry about what letter stays, just that one letter from each pair disappears.  
 
 This repeated collapsing reflects the optimal strategy - the string shrinks as much as possible because I can always choose to replace letters to enable more removals.
