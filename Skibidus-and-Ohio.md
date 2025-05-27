@@ -49,6 +49,15 @@ for x in range(t):
     
     print(len(s))
 ```
+| Part                             | Explanation                                                                                                                                                                                                                                      |
+| -------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| `s[i] for i in range(1, len(s))` | We're looping through the string starting from the **second character** (index 1) to the end. We skip index 0 because we always need to compare `s[i]` with the one before it (`s[i-1]`).                                                        |
+| `if s[i] != s[i-1]`              | We're checking whether the current character is **different** from the one before it. If it's different, it means no collapsing should happen here — so we keep this character.                                                                  |
+| `[s[-1]]`                        | We add the **last character** of the original string at the end of the new string to avoid accidentally dropping it. Otherwise, if we just loop from index 1 and conditionally keep characters, we’d lose the last one if it never got compared. |
+                                                                                                  |
+| `''.join(...)`                   | Finally, we join all the characters back together into a single string — this is the "new" version of `s` after one round of collapsing.                                                                                                         |
+
+
 - This builds a new string skipping letters that are the same as their previous letter (effectively removing duplicates).
 - It repeats this process until the string can’t be shortened further.
 
