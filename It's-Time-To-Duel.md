@@ -29,7 +29,7 @@ Combining both checks gives the final output:
 - If either condition fails, print YES (there is a liar).
 - Else, print NO (reports are consistent).
 
-```python
+```cpp
 #include <bits/stdc++.h>
 using namespace std;
 
@@ -55,7 +55,7 @@ int main() {
             sum_a += a[i];
         }
 
-        if (sum_a > n - 1) {
+        if (sum_a != n - 1) {
             liar = true;
         }
 
