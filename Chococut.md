@@ -56,9 +56,7 @@ using namespace std;
 int main() {
     int t; cin >> t; 
     while (t--) {
-        int n, m, k;
-        cin >> n >> m >> k;
-
+        int n, m, k; cin >> n >> m >> k;
         int maxA = 0;
 
         if (k == 0) {
