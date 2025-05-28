@@ -13,21 +13,13 @@ This simplifies to checking whether the number n (converted from S) is a perfect
 using namespace std;
  
 int main() {
-    int t;
-    cin >> t;
+    int t; cin >> t;
     while (t--) {
-        string s;
-        cin >> s;
+        string s; cin >> s;
         int n = stoi(s);
         int r = (int)(sqrt(n));
         if (r * r == n) {
             cout << 0 << " " << r << endl; // Space between a and b to match sample output format.
-        } else {
-            cout << -1 << endl;
-        }
-    }
-    return 0;
-}
         } else {
             cout << -1 << endl;
         }
