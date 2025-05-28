@@ -2,7 +2,7 @@
 
 ## Language: C++
 
-We are given a year (as a string S) and asked to determine whether it can be expressed in the form: `(a+b)^2` where a and b are any non-negative integers.  
+We are given a year (as a string S) and asked to determine whether it can be expressed in the form `(a+b)^2` where a and b are any non-negative integers.  
 This simplifies to checking whether the number n (converted from S) is a perfect square.
 
 
