@@ -1,3 +1,6 @@
+# Exercise and Rest [🔗](https://www.codechef.com/problems/EXREST?tab=statement)
+
+## Language: C++
 
 2 days exercise + 1 day rest = 3-day cycle
 
