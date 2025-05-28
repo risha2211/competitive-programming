@@ -21,7 +21,7 @@ int main() {
         int n = stoi(s);
         int r = (int)(sqrt(n));
         if (r * r == n) {
-            cout << 0 << " " << r << endl;
+            cout << 0 << " " << r << endl; // " " because a & b need to be printed in the same line. (sample o/p)
         } else {
             cout << -1 << endl;
         }
