@@ -20,9 +20,8 @@ int main() {
         int r = (int)(sqrt(n));
         if (r * r == n) {
             cout << 0 << " " << r << endl; // Space between a and b to match sample output format.
-        } else {
-            cout << -1 << endl;
-        }
+        } else
+        cout << -1 << endl;
     }
     return 0;
 }
