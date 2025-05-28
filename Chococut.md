@@ -28,7 +28,7 @@ if (k == 0) {
 ### Final Approach
 
 1. Iterate through **all horizontal cuts** 
-   - One piece = `i * M`, other = `(N - i) * M`.
+   - One piece = `i * M`, other = `(N - i) * M`. (i rows and M columns)
 ```cpp
  for (int i = 1; i < n; i++) {
             int bob = i * m;
@@ -44,7 +44,7 @@ if (k == 0) {
         }
 ```
 2. Similarly, **all vertical cuts**  
-   - One piece = `N * j`, other = `N * (M - j)`.
+   - One piece = `N * j`, other = `N * (M - j)`. (N rows and j columns)
 3. For each division:
    - Check if either part is >= K (Happy Bob).
    - Track the max size of the remaining part (Alice's part).
