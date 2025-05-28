@@ -92,7 +92,7 @@ int main() {
             }
         }
 
-        cout << maxA << endl; // Output max Alice can keep
+        cout << maxA << endl;
     }
 
     return 0;
