@@ -18,9 +18,9 @@ int main() {
         string s; cin >> s;
         int n = stoi(s);
         int r = (int)(sqrt(n));
-        if (r * r == n) {
-            cout << 0 << " " << r << endl; // Space between a and b to match sample output format.
-        } else
+        if (r * r == n)
+        cout << 0 << " " << r << endl; // Space between a and b to match sample output format.
+        else
         cout << -1 << endl;
     }
     return 0;
