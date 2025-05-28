@@ -21,7 +21,25 @@ int main() {
         int n = stoi(s);
         int r = (int)(sqrt(n));
         if (r * r == n) {
-            cout << 0 << " " << r << endl; // " " because a & b need to be printed in the same line. (sample o/p)
+            cout << 0 << " " << r << endl; // #include <bits/stdc++.h>
+using namespace std;
+ 
+int main() {
+    int t;
+    cin >> t;
+    while (t--) {
+        string s;
+        cin >> s;
+        int n = stoi(s);
+        int r = (int)(sqrt(n));
+        if (r * r == n) {
+            cout << 0 << " " << r << endl; // Space between a and b to match sample output format.
+        } else {
+            cout << -1 << endl;
+        }
+    }
+    return 0;
+}
         } else {
             cout << -1 << endl;
         }
