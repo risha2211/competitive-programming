@@ -21,7 +21,7 @@
 | S. 187    | May/21/2025     | [Chococut](https://github.com/risha2211/Competitive-Programming/blob/main/Chococut.md)                   | [1003](https://www.codechef.com/problems/CHOCUT)  |
 | S. 187    | May/21/2025     | [Incremental Game](https://github.com/risha2211/Competitive-Programming/blob/main/Incremental-Game.md)   | [1227](https://www.codechef.com/problems/INCGAME) |
 | S. 188    | May/28/2025     | [Red and Blue Gems]() | [185](https://www.codechef.com/problems/REDBLUEGEM)                          |
-| S. 188    | May/28/2025     | Train Even or Odd | [608](https://www.codechef.com/problems/TRAINEVOD) |
+| S. 188    | May/28/2025     | [Train Even or Odd](https://github.com/risha2211/Competitive-Programming/blob/main/Train-Even-or-Odd.md) | [608](https://www.codechef.com/problems/TRAINEVOD) |
 | S. 188    | May/28/2025     |  Subset Sum 3     |   [990](https://www.codechef.com/problems/SUBSUM3)                       |
 | S. 188    | May/28/2025     |    Yet Another Monsters Problem |  [1375](https://www.codechef.com/problems/YETMON)  |
 | S. 188 | May/28/2025 | K Boxes | [1506](https://www.codechef.com/problems/KBOXES)
