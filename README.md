@@ -24,4 +24,4 @@
 | S. 188    | May/28/2025     | [Train Even or Odd](https://github.com/risha2211/Competitive-Programming/blob/main/Train-Even-or-Odd.md) | [608](https://www.codechef.com/problems/TRAINEVOD) |
 | S. 188    | May/28/2025     |  [Subset Sum 3](https://github.com/risha2211/Competitive-Programming/blob/main/Subset-Sum-3)     |   [990](https://www.codechef.com/problems/SUBSUM3)                       |
 | S. 188    | May/28/2025     |    [Yet Another Monsters Problem](https://github.com/risha2211/Competitive-Programming/blob/main/Yet-Another-Monsters-Problem.md) |  [1375](https://www.codechef.com/problems/YETMON)  |
-| S. 188 | May/28/2025 | K Boxes | [1506](https://www.codechef.com/problems/KBOXES)
+| S. 188 | May/28/2025 | [K Boxes](https://github.com/risha2211/Competitive-Programming/blob/main/K-Boxes.md) | [1506](https://www.codechef.com/problems/KBOXES)
