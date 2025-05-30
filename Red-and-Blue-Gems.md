@@ -7,7 +7,7 @@ Calculate total value if you take all red gems: R × P
 Calculate total value if you take all blue gems: B × Q  
 Return the maximum of the two.
 
-```python
+```cpp
 #include <bits/stdc++.h>
 using namespace std;
 
