@@ -23,5 +23,5 @@
 | S. 188    | May/28/2025     | [Red and Blue Gems](https://github.com/risha2211/Competitive-Programming/blob/main/Red-and-Blue-Gems.md) | [185](https://www.codechef.com/problems/REDBLUEGEM)                          |
 | S. 188    | May/28/2025     | [Train Even or Odd](https://github.com/risha2211/Competitive-Programming/blob/main/Train-Even-or-Odd.md) | [608](https://www.codechef.com/problems/TRAINEVOD) |
 | S. 188    | May/28/2025     |  [Subset Sum 3](https://github.com/risha2211/Competitive-Programming/blob/main/Subset-Sum-3)     |   [990](https://www.codechef.com/problems/SUBSUM3)                       |
-| S. 188    | May/28/2025     |    Yet Another Monsters Problem |  [1375](https://www.codechef.com/problems/YETMON)  |
+| S. 188    | May/28/2025     |    [Yet Another Monsters Problem](https://github.com/risha2211/Competitive-Programming/blob/main/Yet-Another-Monsters-Problem.md) |  [1375](https://www.codechef.com/problems/YETMON)  |
 | S. 188 | May/28/2025 | K Boxes | [1506](https://www.codechef.com/problems/KBOXES)
