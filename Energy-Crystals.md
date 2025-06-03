@@ -125,7 +125,7 @@ To correct this, we subtract 1 from k.
 
 which matches floor(log₂20) = 4.  
 
-### Intuition behind the formula:
+**Intuition behind the formula:**
 
 - To reach energy level x, we need to double the energy levels multiple times because the crystals must stay balanced according to the constraint.
 - Since the largest power of 2 less than or equal to x is 2^k, we need k doubling steps to reach near x.
