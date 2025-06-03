@@ -1,5 +1,6 @@
 # A. Skibidus and Amog’u [🔗](https://codeforces.com/contest/2065/problem/A)
 ## Language: Python 3
+## Concept: String Manipulation
 
 Every singular noun in this language ends with "us", and to convert it to plural, I just needed to drop the "us" and add an "i" instead.
 
