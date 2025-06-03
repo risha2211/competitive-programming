@@ -66,11 +66,11 @@ int main() {
 
         int k = 0;
         long long value = 1;
-        while (value <= x) {  // count until value > x
+        while (value <= x) { 
             value *= 2;
             k++;
         }
-        k--;  // subtract 1 because we overshoot once
+        k--;  
 
         int min_actions = 2 * k + 3;
         cout << min_actions << "\n";
