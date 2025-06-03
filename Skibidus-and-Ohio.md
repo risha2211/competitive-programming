@@ -2,6 +2,8 @@
 
 ## Language: Python 3
 
+## Concept: Greedy
+
 At first glance, the problem seemed simple- given a string, I had to repeatedly perform an operation that lets me replace one letter and delete the next if those two letters are the same, aiming to minimize the final string length.  
 
 The operation itself sounded a bit confusing: "replace the first letter with any letter and remove the second" - which made me wonder what the best strategy could be. Initially, I thought the replacement letter might matter a lot, and I wasn’t sure how to simulate or track that efficiently.  
