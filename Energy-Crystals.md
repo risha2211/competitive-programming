@@ -14,49 +14,89 @@ After every action, the following condition must hold:
 
 For every pair of crystals i and j, it must be true that:
 
-\[
-a_i \geq \left\lfloor \frac{a_j}{2} \right\rfloor
-\]
-
-where \(a_i\) and \(a_j\) are the current energy levels of the crystals.
+```cp
+ai >= floor(aj/2)
+```
+where `ai` and `aj` are the current energy levels of the crystals.
 
 This means:
+No crystal can be significantly smaller than another.  
+For example, if one crystal has energy 13, then every other crystal must be at least floor(13/2) = 6.  
+This condition must be satisfied after **every** action.
 
-No crystal can be significantly smaller than another.
-
-For example, if one crystal has energy 20, then every other crystal must be at least \(\lfloor 20 / 2 \rfloor = 10\).
-
-This condition must be satisfied after **every** action, not just at the end.
-
-**Objective:**
-
-Given a value \(x\), determine the minimum number of actions required to charge all three crystals to exactly \(x\), while always obeying the constraint.
-
-**Example to Visualize:**
-
-Let \(x = 4\), and name the crystals A, B, and C.
-
+Example: x=4.  
 Start:  
 A = 0, B = 0, C = 0
 
 Now consider this (invalid) move:  
-A = 4, B = 0, C = 0 → Invalid  
-Because B = 0, and \(\lfloor 4 / 2 \rfloor = 2\), so B < 2
+A = 4, B = 0, C = 0 ❌ Invalid  
+Because B = 0, and floor(4/2)=2, so B < 2
 
-A better approach might be:
+Better approach:
 
 A = 1  
 B = 1  
-C = 1 → Rule satisfied
+C = 1
 
 Then:  
 A = 2  
 B = 2  
-C = 2 → Still balanced
+C = 2 
 
 And so on...
 
-**Intuition:**
+**Intuition:**  
+The challenge is to reach the target value x using as few actions as possible while maintaining this balance.
 
-The constraint enforces balanced growth. No crystal can get too far ahead of the others.  
-The challenge is to reach the target value \(x\) using as few actions as possible while maintaining this balance.
+code:
+```cpp
+#include <iostream>
+using namespace std;
+
+int main() {
+    int t;
+    cin >> t;
+    while (t--) {
+        long long x;
+        cin >> x;
+
+        int k = 0;
+        long long value = 1;
+        while (value <= x) {  // count until value > x
+            value *= 2;
+            k++;
+        }
+        k--;  // subtract 1 because we overshoot once
+
+        int min_actions = 2 * k + 3;
+        cout << min_actions << "\n";
+    }
+    return 0;
+}
+```
+**Breakdown:**
+```cpp
+int k = 0;
+long long value = 1;
+while (value <= x) {  // count until value > x
+    value *= 2;
+    k++;
+}
+k--;  // subtract 1 because we overshoot once
+```
+This loop counts how many times you can double the number 1 before it becomes greater than 𝑥
+
+
+value starts at 1.
+
+On each iteration, it doubles value and increments k.
+
+The loop stops when value becomes greater than 
+𝑥
+x.
+
+Because the loop counts one extra step (when value just exceeded 
+𝑥
+x), we subtract 1 from k.
+
+
