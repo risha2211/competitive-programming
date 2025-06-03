@@ -2,6 +2,8 @@
 
 ## Language: C++
 
+## Concept: Pigeonhole principle, simple arithmetic, greedy
+
 **Given a set, we need to check if there exists any non-empty subset whose sum is divisible by 3.**
 
 We don’t want to try every subsequence. That would be very slow and inefficient.  
