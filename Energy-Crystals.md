@@ -2,7 +2,7 @@ There are 3 energy crystals, numbered 1, 2, and 3.
 
 Initially, all crystals have 0 energy.
 
-Our goal is to charge each crystal to energy level \(x\).
+Our goal is to charge each crystal to energy level (x).
 
 Only one action can be performed at a time:
 
