@@ -2,6 +2,8 @@
 
 ## Language: C++
 
+## Concept: Brute-force, greedy
+
 We’re given a chocolate bar of size N × M (grid). Alice can cut it once (or not at all), and Bob wants at least K squares. Alice wants to maximize what she keeps.
 
 ### Processing the Problem Statement
