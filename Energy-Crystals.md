@@ -2,17 +2,17 @@ There are 3 energy crystals, numbered 1, 2, and 3.
 
 Initially, all crystals have 0 energy.
 
-Our goal is to charge each crystal to energy level (x).
+Our goal is to charge each crystal to energy level 'x'.
 
 Only one action can be performed at a time:
 
-In one action, the energy level of any one crystal can be increased by any positive amount (freely chosen).
+In one action, the energy level of any one crystal can be increased by any positive amount.
 
 **Constraint (the tricky part):**
 
 After every action, the following condition must hold:
 
-For every pair of crystals \(i\) and \(j\), it must be true that:
+For every pair of crystals i and j, it must be true that:
 
 \[
 a_i \geq \left\lfloor \frac{a_j}{2} \right\rfloor
