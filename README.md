@@ -27,10 +27,10 @@
 | S. 188    | May/28/2025     | [Subset Sum 3](https://github.com/risha2211/Competitive-Programming/blob/main/Subset-Sum-3.md)           | [990](https://www.codechef.com/problems/SUBSUM3)  |
 | S. 188    | May/28/2025     | [Yet Another Monsters Problem](https://github.com/risha2211/Competitive-Programming/blob/main/Yet-Another-Monsters-Problem.md) (...) | [1375](https://www.codechef.com/problems/YETMON)  |
 | S. 188    | May/28/2025     | [K Boxes](https://github.com/risha2211/Competitive-Programming/blob/main/K-Boxes.md) (...)               | [1506](https://www.codechef.com/problems/KBOXES)  |
-| S. 189    | June/04/2025    | [Pizza Party](https://github.com/risha2211/Competitive-Programming/blob/main/Pizza-Party.md)            | [???](https://www.codechef.com/problems/PIZZAPARTY) |
-| S. 189    | June/04/2025    | [Distinct 2 Subarray](https://github.com/risha2211/Competitive-Programming/blob/main/Distinct-2-Subarray.md) | [???](https://www.codechef.com/problems/DIS2SUB) |
-| S. 189    | June/04/2025    | [Create Binary String](https://github.com/risha2211/Competitive-Programming/blob/main/Create-Binary-String.md) | [???](https://www.codechef.com/problems/CREATEBINSTR) |
-| S. 189    | June/04/2025    | [Nutrition Cost](https://github.com/risha2211/Competitive-Programming/blob/main/Nutrition-Cost.md)      | [???](https://www.codechef.com/problems/NUTRICOST)  |
-| S. 189    | June/04/2025    | [Number Walks](https://github.com/risha2211/Competitive-Programming/blob/main/Number-Walks.md)          | [???](https://www.codechef.com/problems/NUMBERWALK) |
+| S. 189    | June/04/2025    | [Pizza Party](https://github.com/risha2211/Competitive-Programming/blob/main/Pizza-Party.md) (...)           | [???](https://www.codechef.com/problems/PIZZAPARTY) |
+| S. 189    | June/04/2025    | [Distinct 2 Subarray](https://github.com/risha2211/Competitive-Programming/blob/main/Distinct-2-Subarray.md) (...) | [???](https://www.codechef.com/problems/DIS2SUB) |
+| S. 189    | June/04/2025    | [Create Binary String](https://github.com/risha2211/Competitive-Programming/blob/main/Create-Binary-String.md) (...) | [???](https://www.codechef.com/problems/CREATEBINSTR) |
+| S. 189    | June/04/2025    | [Nutrition Cost](https://github.com/risha2211/Competitive-Programming/blob/main/Nutrition-Cost.md) (...)      | [???](https://www.codechef.com/problems/NUTRICOST)  |
+| S. 189    | June/04/2025    | [Number Walks](https://github.com/risha2211/Competitive-Programming/blob/main/Number-Walks.md) (...)         | [???](https://www.codechef.com/problems/NUMBERWALK) |
 
 (...) = explanation in progress, not uploaded yet.
