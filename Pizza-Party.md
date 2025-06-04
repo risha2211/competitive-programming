@@ -5,7 +5,7 @@
 2. pizzas = ceil(total_slices / 8.0)
 
 ```cpp
-#include <iostream>
+#include <bits/stdc++.h>
 using namespace std;
 
 int main() {
