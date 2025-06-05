@@ -1,6 +1,6 @@
 # Distinct 2 Subarray
 
-## Language: C++, Time Complexity: O(n^2)
+## Language: C++, Time Complexity: O(N^2), Concept: Hash Map, Brute Force 
 
 
 ``` cpp
