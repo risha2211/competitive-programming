@@ -1,6 +1,6 @@
 # Energy Crystals
 
-## Language: C++ (G++17 7.3.0)
+## Language: GNU G++17 7.3.0 (C++); Time Complexity: O(logN); Concept: 
 
 There are 3 energy crystals, numbered 1, 2, and 3.
 
@@ -54,7 +54,7 @@ The challenge is to reach the target value x using as few actions as possible wh
 
 code:
 ```cpp
-#include <iostream>
+#include <ibits/stdc++.h>
 using namespace std;
 
 int main() {
