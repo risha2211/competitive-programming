@@ -1,5 +1,5 @@
 # Pizza Party
-## Language: C++
+## Language: C++, Time Complexity: O(1)
 
 1. total_slices = (A + 1) * 4 + B * 3
 2. pizzas = ceil(total_slices / 8.0)
