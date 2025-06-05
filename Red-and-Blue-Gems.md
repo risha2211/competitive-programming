@@ -1,6 +1,6 @@
 # Red and Blue Gems
 
-## Language: C++
+## Language: C++; Time Complexity: O(1)
 
 To get the maximum coins:  
 - Calculate total value if you take all red gems: R × P  
