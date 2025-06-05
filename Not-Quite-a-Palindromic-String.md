@@ -1,5 +1,5 @@
 # Not Quite a Palindromic String
-## Language : C++(G++17 7.3.0)
+## Language : GNU G++17 7.3.0 (C++); Time Complexity: O(N); Concept: Brute Force
 
 Given a binary string `s` of even length `n`, the goal is to rearrange characters such that there are exactly `k` good pairs.  
 A pair (i, n - i + 1) is good if s[i] == s[n - i + 1], making a total of n/2 pairs possible.
