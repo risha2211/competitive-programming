@@ -1,8 +1,6 @@
 # It's Time To Duel
 
-## Language: GNU G++17 7.3.0 (C++)
-
-## Concept: Greedy
+## Language: GNU G++17 7.3.0 (C++); Time Complexity: O(N); Concept: Greedy
 
 We have n players arranged in a line and they duel consecutively: player 1 vs player 2, player 2 vs player 3, ..., player (n-1) vs player n. Each duel produces exactly one winner and one loser.
 
