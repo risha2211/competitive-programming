@@ -46,7 +46,7 @@ bool pair(int n, int k, const string& s) {    // s is called by reference as a c
     }
     return false;
 // As soon as a valid (a, b) pair is found, the function terminates immediately by returning true,  
-skipping the rest of the loop. If no such pair is found, function returns false.
+// skipping the rest of the loop. If no such pair is found, function returns false.
 }
  
 int main() {
