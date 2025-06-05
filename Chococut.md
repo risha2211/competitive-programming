@@ -1,8 +1,6 @@
 ## Chococut
 
-## Language: C++
-
-## Concept: Brute-force, greedy
+## Language: C++; Time Complexity: O(N+M); Concept: Brute Force, greedy
 
 We’re given a chocolate bar of size N × M (grid). Alice can cut it once (or not at all), and Bob wants at least K squares. Alice wants to maximize what she keeps.
 
@@ -97,4 +95,5 @@ int main() {
 
     return 0;
 }
+```
 
