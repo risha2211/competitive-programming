@@ -1,6 +1,6 @@
 # Train Even or Odd
 
-## Language: C++
+## Language: C++; Time Complexity: O(N)
 
 Create two sums:  
 odd_sum = total hours on odd days (indices 0, 2, 4, ...)  
@@ -8,7 +8,6 @@ even_sum = total hours on even days (indices 1, 3, 5, ...)
 Return the maximum of the two.  
 
 ```cpp
-# cook your dish here
 #include <bits/stdc++.h>
 using namespace std;
 
