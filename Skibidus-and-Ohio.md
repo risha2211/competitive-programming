@@ -1,6 +1,6 @@
 # B. Skibidus and Ohio
 
-## Language: Python 3, Concept: Greedy, 
+## Language: Python 3; Time Complexity: O(N^2); Concept: Greedy
 
 At first glance, the problem seemed simple- given a string, I had to repeatedly perform an operation that lets me replace one letter and delete the next if those two letters are the same, aiming to minimize the final string length.  
 
