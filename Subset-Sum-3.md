@@ -1,8 +1,6 @@
 # Subset Sum 3
 
-## Language: C++
-
-## Concept: Pigeonhole principle, simple arithmetic, greedy
+## Language: C++; Time Complexity: O(N); Concept: Pigeonhole Principle, Greedy
 
 **Given a set, we need to check if there exists any non-empty subset whose sum is divisible by 3.**
 
