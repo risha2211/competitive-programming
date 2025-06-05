@@ -18,8 +18,8 @@ The total number of good pairs possible is n / 2.
 
 For a fixed value `a` (number of good pairs made from 0), let `b = k - a` (remaining good pairs are from 1).
 
-- 2 * a + c characters of 0 are needed (2 per good pair, 1 per bad pair).
-- 2 * b + c characters of 1 are needed.
+- 2 * a + c zeroes are needed (2 per good pair, 1 per bad pair).
+- 2 * b + c ones are needed.
 
 If the available c0 and c1 are sufficient to meet this requirement for any (a, b) pair such that a + b = k, then a rearrangement is possible.
 
