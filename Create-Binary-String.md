@@ -5,7 +5,7 @@
 We're given a binary string of length `N`, where cost of (non-contiguous):  
 `0` = A  
 `1` = B  
-`01` = C
+`01` = C  
 `10` = D
 
 We have to rearrange the string to get the maximum coins.  
