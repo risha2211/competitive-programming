@@ -17,13 +17,13 @@ So, we must maximise 01/10.
 If C > D or coins per 01 pair > coins per 10 pair, it will be in our best interest to turn all 10 pairs into 01.  
 Similarly, if D > C, we turn all 01 pairs into 10. 
 
-E.g.: if c>d for 0100110  
+E.g.: if C > D for 0100110  
 010110 -> 010101 -> 001101 -> 001011 -> 000111 ✅  
-E.g.: if d>c for 110101  
+E.g.: if D > C for 110101  
 110101 -> 111001 -> 111010 -> 111100 ✅  
 
-We observe that for any c>d, all the 0s are lined up together in the beginning followed by all the 1s.    
-Similarly, for ant d>c, all the 1s are lined up together in the beginning followed by all the 0s.  
+We observe that for any C > D, all the 0s are lined up together in the beginning followed by all the 1s.    
+Similarly, for ant D > C, all the 1s are lined up together in the beginning followed by all the 0s.  
 Also note that every 0 pairs up with every 1 in every case.  
 So, total pairs = total zeroes * total ones = i * (N - i)  
 
@@ -47,10 +47,8 @@ int main() {
             ans = max(ans, (i*a + (n-i)*b + i*(n-i)*d));
         }
 
-        cout << ans << endl;;
+        cout << ans << endl;
     }
-
-    return 0;
 }
 ```
 
