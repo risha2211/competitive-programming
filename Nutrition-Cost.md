@@ -63,7 +63,7 @@ int main()
     }
 }
 ```
-Let's say this the map 'mp' with all the distinct vitamins and their minimum costs:
+Let's say this is map mp with all the distinct vitamins and their minimum costs:
 ```cpp
 mp = {
     2: 3,   //key:value pair
