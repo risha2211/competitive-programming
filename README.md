@@ -30,7 +30,7 @@
 | S. 189    | June/04/2025    | [Pizza Party](https://github.com/risha2211/Competitive-Programming/blob/main/Pizza-Party.md)          | [238](https://www.codechef.com/problems/PIZZAPARTY) |
 | S. 189    | June/04/2025    | [Distinct 2 Subarray](https://github.com/risha2211/Competitive-Programming/blob/main/Distinct-2-Subarray.md) | [870](https://www.codechef.com/problems/DIS2SUB) |
 | S. 189    | June/04/2025    | [Create Binary String](https://github.com/risha2211/Competitive-Programming/blob/main/Create-Binary-String.md) | [1374](https://www.codechef.com/problems/CREATEBINSTR) |
-| S. 189    | June/04/2025    | [Nutrition Cost](https://github.com/risha2211/Competitive-Programming/blob/main/Nutrition-Cost.md) (...)      | [1191](https://www.codechef.com/problems/NUTRICOST)  |
+| S. 189    | June/04/2025    | [Nutrition Cost](https://github.com/risha2211/Competitive-Programming/blob/main/Nutrition-Cost.md)      | [1191](https://www.codechef.com/problems/NUTRICOST)  |
 | S. 189    | June/04/2025    | [Number Walks](https://github.com/risha2211/Competitive-Programming/blob/main/Number-Walks.md) (...)         | [2024](https://www.codechef.com/problems/NUMBERWALK) |
 
 (...) = explanation in progress, not uploaded yet.
