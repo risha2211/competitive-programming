@@ -1,5 +1,5 @@
 # Nutrition Cost
-## Language: C++; Time Complexity: O(NlogN); Concept: Greedy
+## Language: C++; Time Complexity: O(NlogN); Concept: Greedy, Hash Map
 
 Given `N` food items, each providing an essential vitamin `Ai` and costing `Bi`, the goal is to maximize the value:  
 **CX-Y**
