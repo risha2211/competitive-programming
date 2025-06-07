@@ -63,6 +63,9 @@ int main()
     }
 }
 ```
+
+### Breakdown of vector<int> costs
+
 Let's say this is map mp with all the distinct vitamins and their minimum costs:
 ```cpp
 mp = {
