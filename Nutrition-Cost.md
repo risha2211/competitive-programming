@@ -48,8 +48,8 @@ int main()
         vector<int> costs;
         for (auto it : mp) // auto assigns the type to the variables automatically. 
         {
-        int vitamin = it.first;
-        int cost = it.second;
+        int vit = it.first; // 'it' is an iterator that iterates through the map (key first, then value)
+        int cost = it.second; // we assign the values of value to the var cost
         costs.push_back(cost);
         }
         sort(costs.begin(), costs.end());
