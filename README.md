@@ -21,7 +21,7 @@
 | --------- | --------------- | -------------------------------------------------------------------------------------------------------- | ------------------------------------------------- |
 | S. 187    | May/21/2025     | [Exercise and Rest](https://github.com/risha2211/Competitive-Programming/blob/main/Exercise-and-Rest.md)| [123](https://www.codechef.com/problems/EXREST)   |
 | S. 187    | May/21/2025     | [Chococut](https://github.com/risha2211/Competitive-Programming/blob/main/Chococut.md)                  | [1003](https://www.codechef.com/problems/CHOCUT)  |
-| S. 187    | May/21/2025     | [Incremental Game](https://github.com/risha2211/Competitive-Programming/blob/main/Incremental-Game.md) (...)  | [1227](https://www.codechef.com/problems/INCGAME) |
+| S. 187    | May/21/2025     | [Incremental Game](https://github.com/risha2211/Competitive-Programming/blob/main/Incremental-Game.md)  | [1227](https://www.codechef.com/problems/INCGAME) |
 | S. 188    | May/28/2025     | [Red and Blue Gems](https://github.com/risha2211/Competitive-Programming/blob/main/Red-and-Blue-Gems.md)| [185](https://www.codechef.com/problems/REDBLUEGEM)|
 | S. 188    | May/28/2025     | [Train Even or Odd](https://github.com/risha2211/Competitive-Programming/blob/main/Train-Even-or-Odd.md)| [608](https://www.codechef.com/problems/TRAINEVOD) |
 | S. 188    | May/28/2025     | [Subset Sum 3](https://github.com/risha2211/Competitive-Programming/blob/main/Subset-Sum-3.md)           | [990](https://www.codechef.com/problems/SUBSUM3)  |
