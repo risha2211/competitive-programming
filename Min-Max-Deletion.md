@@ -8,6 +8,7 @@
 
 My initial approach to check for the max value of A after ith index was a bubble loop.
 ```cpp
+
         for (int i = 0; i < n; i++) {
             int m = 0;
             for (int j = i + 1; j < n; j++) {
@@ -15,19 +16,23 @@ My initial approach to check for the max value of A after ith index was a bubble
             }
             maxFuture[i] = m;
         }
+
 ```
 but the nested loop brings T.C. to O(N^2), obvious TLE.
 
 So, I tried suffix maximum.  
 ```cpp
+
 maxFuture[N] = 0;
 for (int i = N - 1; i >= 0; i--)
 maxFuture[i] = max(maxFuture[i + 1], A[i]);
+
 ```
 I defined a vector maxFuture to size N+1 to store a dummy value of 0 on the Nth index so that for i=N the operation does not go out of bounds.
 
 ### Final Code:
 ``` cpp
+
 #include <bits/stdc++.h>
 using namespace std;
 
