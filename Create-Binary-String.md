@@ -34,9 +34,6 @@ We create both pairs, 11..00 and 00..11 and finally output the highest value.
 using namespace std;
 
 int main() {
-    ios::sync_with_stdio(false);
-    cin.tie(nullptr);
-
     int t; cin >> t;
     while (t--) {
         int n, a, b, c, d; cin >> n >> a >> b >> c >> d;
