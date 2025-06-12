@@ -9,9 +9,9 @@ We are given a natural number X and by performing certain operations our goal is
 
 - if x is odd and greater than 3, subtracting 3 is the only and the correct choice.  
 - if x is less than 3:  
-1. X=1, X unchanged
-2. X=2, X= 2/2= 1
-3. X=3, X unchanged
+    X=1, X unchanged
+    X=2, X= 2/2= 1
+    X=3, X unchanged
 3.
 
 
