@@ -1,4 +1,4 @@
-# Nutrition Cost
+# Number Reduction
 ## Language: C++; Time Complexity: O(N)
 
 We are given a natural number X and by performing certain operations our goal is to reduce it to the smallest possible number. 
