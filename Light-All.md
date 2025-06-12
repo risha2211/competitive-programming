@@ -47,7 +47,7 @@ int main() {
             }
         }
 
-        cout << (poss ? "Yes" : "No") << cout;
+        cout << (poss ? "Yes" : "No") << endl;
     }
 }
 
