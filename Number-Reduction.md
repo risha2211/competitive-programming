@@ -5,7 +5,7 @@ We are given a natural number X and by performing certain operations our goal is
 `if X>3, X-= 3`  - OP1
 `if X is even, X/=2` - OP2
 
-**Thought Process:**
+### Thought Process:
 
 - if X is less than 3:  
         X=1, X unchanged  
