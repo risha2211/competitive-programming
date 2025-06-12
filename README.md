@@ -36,7 +36,7 @@
 | S. 189    | June/04/2025    | [Nutrition Cost](https://github.com/risha2211/Competitive-Programming/blob/main/Nutrition-Cost.md)           | [1191](https://www.codechef.com/problems/NUTRICOST)|
 | S. 189    | June/04/2025    | [Number Walks](https://github.com/risha2211/Competitive-Programming/blob/main/Number-Walks.md) (...)              | [2024](https://www.codechef.com/problems/NUMBERWALK)|
 | S. 190    | June/11/2025    | [Number Reduction](https://github.com/risha2211/Competitive-Programming/blob/main/Number-Reduction.md)      | [727](https://www.codechef.com/problems/RED23) |
-| S. 190    | June/11/2025    | [Light All](https://github.com/risha2211/Competitive-Programming/blob/main/Light-All.md) (...)                    | [1379](https://www.codechef.com/problems/LTALL) |
+| S. 190    | June/11/2025    | [Light All](https://github.com/risha2211/Competitive-Programming/blob/main/Light-All.md)                    | [1379](https://www.codechef.com/problems/LTALL) |
 | S. 190    | June/11/2025    | [Min-Max Deletion](https://github.com/risha2211/Competitive-Programming/blob/main/Min-Max-Deletion.md) (...)      | [1411](https://www.codechef.com/problems/MNMXDEL)|
 | S. 190    | June/11/2025    | [Parry It! (Easy)](https://github.com/risha2211/Competitive-Programming/blob/main/Parry-It-Easy.md) (...)         | [1568](https://www.codechef.com/problems/MXPARREZ)|
 
