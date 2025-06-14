@@ -62,7 +62,13 @@ int main() {
 }
 
 ```
-
+```cpp
+if (a.size()==1)
+	        { if (a[0]%2==0) break;
+	          else {lop++; break;}
+	            }
+```
+if the array consists only of a single number we check whether its even, if not, deleting it (op+=1) will make the array fashionable.
 
 
 
