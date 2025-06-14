@@ -1,6 +1,6 @@
 # Energy Crystals
 
-## Language: GNU G++17 7.3.0 (C++); Time Complexity: O(logN); Concept: 
+## Language: GNU G++17 7.3.0 (C++); Time Complexity: O(logN)
 
 There are 3 energy crystals, numbered 1, 2, and 3.
 
