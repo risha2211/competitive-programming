@@ -18,7 +18,7 @@ E.g.:
 for ()(), variation of f throughout the string- [1,0,1,0]. Removing the first and last brackets makes it unbalanced. ✅  
 for (()), variation of f- [1,2,1,0]. Impossible to make it unbalanced. ❌
 
-```cpp#include <iostream>
+```cpp
 #include <bits/stdc++.h>
 using namespace std;
  
