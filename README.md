@@ -12,9 +12,9 @@
 | 1027          | May/27/2025     | Div 3    | [Square Year](https://github.com/risha2211/Competitive-Programming/blob/main/Square-Year.md)                  | [A](https://codeforces.com/contest/2114/problem/A)          |
 | 1027          | May/27/2025     | Div 3    | [Not Quite a Palindromic String](https://github.com/risha2211/Competitive-Programming/blob/main/Not-Quite-a-Palindromic-String.md) |[B](https://codeforces.com/contest/2114/problem/B)           |
 | 1027          | May/27/2025     | Div 3    | [Need More Arrays](https://github.com/risha2211/Competitive-Programming/blob/main/Need-More-Arrays.md) (...)           | [C](https://codeforces.com/contest/2114/problem/C)           |
-| E. 179        | June/03/2025    | Div 2    | [Energy Crystals](https://github.com/risha2211/Competitive-Programming/blob/main/Energy-Crystals.md)    | [A](https://codeforces.com/contest/2111/problem/A)       |
-| 1028          | June/09/2025    | Div 3    | [False Alarm](https://github.com/risha2211/Competitive-Programming/blob/main/False-Alarm.md)| [A](https://codeforces.com/contest/2117/problem/A) |
-| 1028          | June/09/2025    | Div 3    | [Shrink](https://github.com/risha2211/Competitive-Programming/blob/main/Shrink.md) (...) | [B](https://codeforces.com/contest/2117/problem/B) |
+| E. 179        | Jun/03/2025    | Div 2    | [Energy Crystals](https://github.com/risha2211/Competitive-Programming/blob/main/Energy-Crystals.md)    | [A](https://codeforces.com/contest/2111/problem/A)       |
+| 1028          | Jun/09/2025    | Div 3    | [False Alarm](https://github.com/risha2211/Competitive-Programming/blob/main/False-Alarm.md)| [A](https://codeforces.com/contest/2117/problem/A) |
+| 1028          | Jun/09/2025    | Div 3    | [Shrink](https://github.com/risha2211/Competitive-Programming/blob/main/Shrink.md) (...) | [B](https://codeforces.com/contest/2117/problem/B) |
 | E. 180        | Jun/23/2025     | Div 2    | [Race](https://github.com/risha2211/Competitive-Programming/blob/main/Race.md) (...)| [A](https://codeforces.com/contest/2112/problem/A) |
 
 
