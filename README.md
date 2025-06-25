@@ -1,5 +1,6 @@
 # Problem Index 📚
 
+## CodeForces 📊
 | Round No. | Division | Date of Contest | Name of the Problem                                                                                                                | Difficulty                                             |
 | --------- | -------- | --------------- | ---------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------- |
 | 1003      | Div 2    | Feb/09/2025     | [Skibidus and Amog'u](https://github.com/risha2211/Competitive-Programming/blob/main/Skibidus-and-Amog'u.md)                       | [A](https://codeforces.com/contest/2065/problem/A) |
