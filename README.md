@@ -1,24 +1,24 @@
 # Problem Index 📚
 
-## CodeForces 📊
-| Round No.     | Date of Contest | Division | Name of the Problem                           | Label |
-| ------------- | --------------- | -------- | --------------------------------------------- | ----------- |
-| 1003          | Feb/09/2025     | Div 2    | [Skibidus and Amog'u](https://github.com/risha2211/Competitive-Programming/blob/main/Skibidus-and-Amog'u.md)     | [A](https://codeforces.com/contest/2065/problem/A)          |
-| 1003          | Feb/09/2025     | Div 2    | [Skibidus and Ohio](https://github.com/risha2211/Competitive-Programming/blob/main/Skibidus-and-Ohio.md)       | [B](https://codeforces.com/contest/2065/problem/B)         |
-| 1025          | May/17/2025     | Div 2    | [It's Time To Duel](https://github.com/risha2211/Competitive-Programming/blob/main/It's-Time-To-Duel.md)       | [A](https://codeforces.com/contest/2109/problem/A)         |
-| 1025          | May/17/2025     | Div 2    | [Slice to Survive](https://github.com/risha2211/Competitive-Programming/blob/main/Slice-to-Survive.md) (...)         | [B](https://codeforces.com/contest/2109/problem/B)          |
-| 1026          | May/24/2025     | Div 2    | [Fashionable Array](https://github.com/risha2211/Competitive-Programming/blob/main/Fashionable-Array.md)       | [A](https://codeforces.com/contest/2110/problem/A)          |
-| 1026          | May/24/2025     | Div 2    | [Down with Brackets](https://github.com/risha2211/Competitive-Programming/blob/main/Down-with-Brackets.md)    | [B](https://codeforces.com/contest/2110/problem/B)           |
-| 1027          | May/27/2025     | Div 3    | [Square Year](https://github.com/risha2211/Competitive-Programming/blob/main/Square-Year.md)                  | [A](https://codeforces.com/contest/2114/problem/A)          |
-| 1027          | May/27/2025     | Div 3    | [Not Quite a Palindromic String](https://github.com/risha2211/Competitive-Programming/blob/main/Not-Quite-a-Palindromic-String.md) |[B](https://codeforces.com/contest/2114/problem/B)           |
-| 1027          | May/27/2025     | Div 3    | [Need More Arrays](https://github.com/risha2211/Competitive-Programming/blob/main/Need-More-Arrays.md) (...)           | [C](https://codeforces.com/contest/2114/problem/C)           |
-| E. 179        | Jun/03/2025    | Div 2    | [Energy Crystals](https://github.com/risha2211/Competitive-Programming/blob/main/Energy-Crystals.md)    | [A](https://codeforces.com/contest/2111/problem/A)       |
-| 1028          | Jun/09/2025    | Div 3    | [False Alarm](https://github.com/risha2211/Competitive-Programming/blob/main/False-Alarm.md)| [A](https://codeforces.com/contest/2117/problem/A) |
-| 1028          | Jun/09/2025    | Div 3    | [Shrink](https://github.com/risha2211/Competitive-Programming/blob/main/Shrink.md) (...) | [B](https://codeforces.com/contest/2117/problem/B) |
-| E. 180        | Jun/23/2025     | Div 2    | [Race](https://github.com/risha2211/Competitive-Programming/blob/main/Race.md) (...)| [A](https://codeforces.com/contest/2112/problem/A) |
+| Round No. | Division | Date of Contest | Name of the Problem                                                                                                                | Difficulty                                             |
+| --------- | -------- | --------------- | ---------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------- |
+| 1003      | Div 2    | Feb/09/2025     | [Skibidus and Amog'u](https://github.com/risha2211/Competitive-Programming/blob/main/Skibidus-and-Amog'u.md)                       | [A](https://codeforces.com/contest/2065/problem/A) |
+| 1003      | Div 2    | Feb/09/2025     | [Skibidus and Ohio](https://github.com/risha2211/Competitive-Programming/blob/main/Skibidus-and-Ohio.md)                           | [B](https://codeforces.com/contest/2065/problem/B) |
+| 1025      | Div 2    | May/17/2025     | [It's Time To Duel](https://github.com/risha2211/Competitive-Programming/blob/main/It's-Time-To-Duel.md)                           | [A](https://codeforces.com/contest/2109/problem/A) |
+| 1025      | Div 2    | May/17/2025     | [Slice to Survive](https://github.com/risha2211/Competitive-Programming/blob/main/Slice-to-Survive.md) (...)                       | [B](https://codeforces.com/contest/2109/problem/B) |
+| 1026      | Div 2    | May/24/2025     | [Fashionable Array](https://github.com/risha2211/Competitive-Programming/blob/main/Fashionable-Array.md)                           | [A](https://codeforces.com/contest/2110/problem/A) |
+| 1026      | Div 2    | May/24/2025     | [Down with Brackets](https://github.com/risha2211/Competitive-Programming/blob/main/Down-with-Brackets.md)                         | [B](https://codeforces.com/contest/2110/problem/B) |
+| 1027      | Div 3    | May/27/2025     | [Square Year](https://github.com/risha2211/Competitive-Programming/blob/main/Square-Year.md)                                       | [A](https://codeforces.com/contest/2114/problem/A) |
+| 1027      | Div 3    | May/27/2025     | [Not Quite a Palindromic String](https://github.com/risha2211/Competitive-Programming/blob/main/Not-Quite-a-Palindromic-String.md) | [B](https://codeforces.com/contest/2114/problem/B) |
+| 1027      | Div 3    | May/27/2025     | [Need More Arrays](https://github.com/risha2211/Competitive-Programming/blob/main/Need-More-Arrays.md) (...)                       | [C](https://codeforces.com/contest/2114/problem/C) |
+| E. 179    | Div 2    | Jun/03/2025     | [Energy Crystals](https://github.com/risha2211/Competitive-Programming/blob/main/Energy-Crystals.md)                               | [A](https://codeforces.com/contest/2111/problem/A) |
+| 1028      | Div 3    | Jun/09/2025     | [False Alarm](https://github.com/risha2211/Competitive-Programming/blob/main/False-Alarm.md)                                       | [A](https://codeforces.com/contest/2117/problem/A) |
+| 1028      | Div 3    | Jun/09/2025     | [Shrink](https://github.com/risha2211/Competitive-Programming/blob/main/Shrink.md) (...)                                           | [B](https://codeforces.com/contest/2117/problem/B) |
+| E. 180    | Div 2    | Jun/23/2025     | [Race](https://github.com/risha2211/Competitive-Programming/blob/main/Race.md) (...)                                               | [A](https://codeforces.com/contest/2112/problem/A) |
 
 
 
+## CodeChef 🧑‍🍳
 | Round No. | Division | Date of Contest | Name of the Problem                                                                                                                  | Difficulty                                             |
 | --------- | -------- | --------------- | ------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------ |
 | S. 187    | Div 4    | May/21/2025     | [Exercise and Rest](https://github.com/risha2211/Competitive-Programming/blob/main/Exercise-and-Rest.md)                             | [123](https://www.codechef.com/problems/EXREST)        |
