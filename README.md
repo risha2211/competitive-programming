@@ -17,7 +17,7 @@
 | 1028      | Div 3    | Jun/09/2025     | [Shrink](https://github.com/risha2211/Competitive-Programming/blob/main/Shrink.md) (...)                                           | [B](https://codeforces.com/contest/2117/problem/B) |
 | E. 180    | Div 2    | Jun/23/2025     | [Race](https://github.com/risha2211/Competitive-Programming/blob/main/Race.md) (...)                                               | [A](https://codeforces.com/contest/2112/problem/A) |
 
-
+---
 
 ## CodeChef 🧑‍🍳
 | Round No. | Division | Date of Contest | Name of the Problem                                                                                                                  | Difficulty                                             |
