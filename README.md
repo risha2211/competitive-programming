@@ -39,7 +39,7 @@
 | S. 190    | Div 3    | Jun/11/2025     | [Light All](https://github.com/risha2211/Competitive-Programming/blob/main/Light-All.md)                                             | [1379](https://www.codechef.com/problems/LTALL)        |
 | S. 190    | Div 3    | Jun/11/2025     | [Min-Max Deletion](https://github.com/risha2211/Competitive-Programming/blob/main/Min-Max-Deletion.md) (...)                         | [1411](https://www.codechef.com/problems/MNMXDEL)      |
 | S. 190    | Div 3    | Jun/11/2025     | [Parry It! (Easy)](https://github.com/risha2211/Competitive-Programming/blob/main/Parry-It-Easy.md)                                  | [1568](https://www.codechef.com/problems/MXPARREZ)     |
-| S. 192    | Div 2    | Jun/25/2025     | [No 3 Please!](https://github.com/risha2211/Competitive-Programming/blob/main/No-3-Please.md) (...)                                                               | [B](https://www.codechef.com/START192B/problems/NO3P)  |
+| S. 192    | Div 2    | Jun/25/2025     | [No 3 Please!](https://github.com/risha2211/Competitive-Programming/blob/main/No-3-Please.md) (...)                                                               | [1620](https://www.codechef.com/START192B/problems/NO3P)  |
 
 
 
