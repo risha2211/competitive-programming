@@ -20,7 +20,7 @@
 ---
 
 ## CodeChef 🧑‍🍳
-| Round No. | Division | Date        | Name of the Problem                                                                                                            | Difficulty                                               | Contest Rank |
+| Round No. | Division | Date of Contest       | Name of the Problem                                                                                                            | Difficulty                                               | Contest Rank |
 | --------- | -------- | ----------- | ------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------- | ------------ |
 | S. 187    | Div 4    | May/21/2025 | [Exercise and Rest](https://github.com/risha2211/Competitive-Programming/blob/main/Exercise-and-Rest.md)                       | [123](https://www.codechef.com/problems/EXREST)          | 3178         |
 |           |          |             | [Chococut](https://github.com/risha2211/Competitive-Programming/blob/main/Chococut.md)                                         | [1003](https://www.codechef.com/problems/CHOCUT)         |              |
